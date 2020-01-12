@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <div className="demo-big-content">
         <Layout>
-          <Header title="Title" scroll>
+          <Header className="header-color" title="Title" scroll>
             <Navigation>
               <Link to="/resume">Resume</Link>
               <Link to="/about">About</Link>

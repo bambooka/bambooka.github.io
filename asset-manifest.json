@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.632ee580.chunk.css",
-    "main.js": "/static/js/main.9ef34833.chunk.js",
-    "main.js.map": "/static/js/main.9ef34833.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8896086d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8896086d.js.map",
-    "static/css/2.559fd73f.chunk.css": "/static/css/2.559fd73f.chunk.css",
-    "static/js/2.0d80e8d1.chunk.js": "/static/js/2.0d80e8d1.chunk.js",
-    "static/js/2.0d80e8d1.chunk.js.map": "/static/js/2.0d80e8d1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0e3db4d31a80750b621e5b166840aa20.js": "/precache-manifest.0e3db4d31a80750b621e5b166840aa20.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.559fd73f.chunk.css.map": "/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.632ee580.chunk.css.map": "/static/css/main.632ee580.chunk.css.map",
-    "static/media/recipe-site.png": "/static/media/recipe-site.8ad9576e.png",
-    "static/media/tech-store.png": "/static/media/tech-store.420dcfcf.png",
-    "static/media/todo.png": "/static/media/todo.163cc187.png"
+    "main.css": "/portfolio/static/css/main.632ee580.chunk.css",
+    "main.js": "/portfolio/static/js/main.0f91a848.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0f91a848.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
+    "static/css/2.559fd73f.chunk.css": "/portfolio/static/css/2.559fd73f.chunk.css",
+    "static/js/2.0d80e8d1.chunk.js": "/portfolio/static/js/2.0d80e8d1.chunk.js",
+    "static/js/2.0d80e8d1.chunk.js.map": "/portfolio/static/js/2.0d80e8d1.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.1e1704d270a3c88ace57b3b2829e8b88.js": "/portfolio/precache-manifest.1e1704d270a3c88ace57b3b2829e8b88.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.559fd73f.chunk.css.map": "/portfolio/static/css/2.559fd73f.chunk.css.map",
+    "static/css/main.632ee580.chunk.css.map": "/portfolio/static/css/main.632ee580.chunk.css.map",
+    "static/media/recipe-site.png": "/portfolio/static/media/recipe-site.8ad9576e.png",
+    "static/media/tech-store.png": "/portfolio/static/media/tech-store.420dcfcf.png",
+    "static/media/todo.png": "/portfolio/static/media/todo.163cc187.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8896086d.js",
+    "static/js/runtime-main.86a05020.js",
     "static/css/2.559fd73f.chunk.css",
     "static/js/2.0d80e8d1.chunk.js",
     "static/css/main.632ee580.chunk.css",
-    "static/js/main.9ef34833.chunk.js"
+    "static/js/main.0f91a848.chunk.js"
   ]
 }
